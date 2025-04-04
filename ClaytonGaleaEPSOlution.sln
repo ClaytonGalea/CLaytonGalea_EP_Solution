@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35707.178 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaytonGaleaEPSolution", "ClaytonGaleaEPSOlution\ClaytonGaleaEPSolution.csproj", "{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaytonGaleaEPSolution.Presentation", "ClaytonGaleaEPSOlution\ClaytonGaleaEPSolution.Presentation.csproj", "{BFA62F32-3CA4-4362-B497-7A91F59E8BCE}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaytonGaleaEPSolution.Domain", "ClaytonGaleaEPSolution.Domain\ClaytonGaleaEPSolution.Domain.csproj", "{C8F0BE7F-4305-4A13-B42D-FA159ECB6454}"
 EndProject
